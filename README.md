@@ -1,0 +1,1 @@
+É um repositório para estudo, principalmente de Algoritmo e Estrutura de Dados, POO e outras coisas a fim de melhorar minha habilidade na programação.
