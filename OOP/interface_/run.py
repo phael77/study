@@ -33,7 +33,7 @@ class Repositor(Trabalhador):
         print(f"Hora do almoco do {self.nome}")
 
     def volta_casa(self):
-        print(f"Finalmente {self.nome} está indo pra casa!!!")
+        print(f"Finalmente {self.nome} está indo pra casa!!")
 
 zezin = Repositor("Zezin", "Costa Atacadão")
 
